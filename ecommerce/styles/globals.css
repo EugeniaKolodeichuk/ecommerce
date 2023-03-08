@@ -282,10 +282,9 @@ span.text-red {
 
 .footer-banner-image {
   position: absolute;
-  /* top: -35%;
-  left: 8%; */
   top: -25%;
-  left: 25%;
+  left: 30%;
+  width: 450px;
 }
 
 .banner-desc .right {
