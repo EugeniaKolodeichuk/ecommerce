@@ -210,7 +210,6 @@ span.text-red {
   margin-bottom: 12px;
   font-weight: 700;
   font-size: 16px;
-  /* color: black; */
   align-self: flex-end;
 }
 
@@ -819,16 +818,6 @@ span.text-red {
     flex-wrap: wrap;
   }
 
-  /*  .product-detail-container .product-detail-image {
-    width: 350px;
-    height: 350px;
-  } */
-
-  /* .cart-container {
-    width: 415px;
-    padding: 4px;
-  } */
-
   .cart-heading {
     margin-top: 35px;
   }
@@ -846,14 +835,6 @@ span.text-red {
     width: 25%;
     height: 25%;
   }
-
-  /* .buttons .add-to-cart {
-    width: 150px;
-  } */
-
-  /* .buttons .buy-now {
-    width: 150px;
-  } */
 
   .product-detail-container {
     margin: 20px;
